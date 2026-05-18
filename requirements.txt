@@ -7,3 +7,5 @@ tensorflow
 nltk
 pyarrow
 dotenv
+maplotlib
+seaborn
