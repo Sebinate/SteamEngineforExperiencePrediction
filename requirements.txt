@@ -4,3 +4,6 @@ scikit-learn
 pandas
 numpy
 tensorflow
+nltk
+pyarrow
+dotenv
